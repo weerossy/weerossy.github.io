@@ -1,0 +1,30 @@
+body{
+    padding-bottom: 50px;
+    background-color: white;
+}
+
+content{
+    width: 60%;
+    margin: auto;
+    margin-top: 100px;
+    text-align: left;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: black;
+}
+
+.image-cropper{
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+img {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+}
