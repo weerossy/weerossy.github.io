@@ -1,6 +1,7 @@
 body{
     padding-bottom: 50px;
     background-color: white;
+    text-align: center;
 }
 
 content{
@@ -8,7 +9,7 @@ content{
     margin: auto;
     margin-top: 100px;
     text-align: left;
-    font-family:'Courier New', Courier, monospace;
+    font-family: Helvetica;
     font-size: 20px;
     color: black;
 }
